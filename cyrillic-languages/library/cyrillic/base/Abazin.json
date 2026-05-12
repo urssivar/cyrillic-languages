@@ -1,5 +1,5 @@
 {
-    "name_eng": "Abazin",
+    "name_eng": "Abaza",
     "name_rus": "Абазинский",
     "local": "ru",
     "language_tag": "abq",
@@ -12,12 +12,12 @@
         "Абхазо-адыгские (Западнокавказские) языки"
     ],
     "alt_names_eng": [
-        "Abazin",
-        "Abazintsy",
-        "Ashuwa"
+        "Abazian",
+        "Ashua",
+        "Ashkharua"
     ],
-    "description_eng": "The modern Abaza alphabet based on the Cyrillic alphabet was introduced in 1938. It consists of 33 letters of the Russian alphabet, as well as a number of specific combinations and the 'palochka' sign.\n",
-    "description_rus": "Современный абазинский алфавит на основе кириллицы был введен в 1938 году. Он состоит из 33 букв русского алфавита, а также ряда специфических сочетаний и знака «палочка».",
+    "description_eng": "The contemporary Abaza Cyrillic alphabet was introduced in 1938 after a brief Latin period (1932–1938). It consists of approximately 70 characters, including most letters from the Russian alphabet, numerous digraphs for complex consonants, and the special sign ӏ (palochka), which indicates ejective and pharyngealized sounds.\n",
+    "description_rus": "Современный абазинский алфавит на кириллической основе был введён в 1938 году после короткого латинского периода (1932–1938). В общей сложности он содержит около 70 знаков: большинство букв русского алфавита, большое количество диграфов для передачи сложных согласных, а также специальный знак ӏ («палочка»), обозначающий эйективные и фарингализованные звуки.",
     "glyphs_list": [
         {
             "type": "alphabet",
