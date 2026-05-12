@@ -12,33 +12,39 @@
         "Абхазо-Адыгские (Западнокавказские) языки"
     ],
     "alt_names_eng": [
-        "Abkhazian",
-        "Bzyb",
-        "Abzhui",
-        "Samurzakan"
+        "Abkhaz / Abkhazian",
+        "Bzyp / Bzyb",
+        "Abzhywa / Abzhui",
+        "Samurzakan",
+        "Sadz",
+        "Guma",
+        "Tsabal",
+        "Pskhu",
+        "Ahchipsy"
+        
     ],
-    "description_eng": "The modern Cyrillic-based Abkhaz alphabet was introduced in 1954 and reformed in the late 1990s. It consists of 26 letters of the Russian alphabet ( Ё, Й, Щ, Ъ, Э, Ю, Я are missing ) and a number of specific letters, ligatures and combinations.\nSigns important for the language that are not included in the alphabet are shown separately.\n",
-    "description_rus": "Современный абхазский алфавит на основе кириллицы был введен в 1954 году и реформирован в конце 1990-х гг. Он состоит из 26 букв русского алфавита (отсутствуют Ё, Й, Щ, Ъ, Э, Ю, Я) и ряда специфических букв, лигатур и сочетаний.\nОтдельно показаны важные для языка знаки, не входящие в алфавит.",
+    "description_eng": "The contemporary Abkhaz alphabet, based on Cyrillic, was introduced in 1954 and last reformed in 1996. It contains 64 characters in total and is one of the largest Cyrillic alphabets in the world. Of these, it uses 26 letters from the Russian alphabet (excluding Ё, Й, Щ, Ъ, Э, Ю, Я), supplemented by numerous unique letters, digraphs, and special signs.\nThe characters Ә (indicating labialization) and Ь (indicating palatalization) are frequently listed separately in tables, although they function as modifiers rather than standalone letters.\n",
+    "description_rus": "Современный абхазский алфавит на кириллической основе был введён в 1954 году и реформирован в 1996 году. Он включает в себя 64 знака и считается одним из крупнейших кириллических алфавитов в мире. Из них 26 букв заимствованы из русского алфавита (отсутствуют Ё, Й, Щ, Ъ, Э, Ю, Я), а остальные - это специфические абхазские буквы, диграфы и дополнительные знаки.\nЗнаки Ә (лабиализация) и Ь (палатализация) обычно показывают в таблицах отдельно, хотя они не являются самостоятельными буквами, а используются как модификаторы.\n",
     "glyphs_list": [
         {
             "type": "alphabet",
-            "uppercase": "А Б В Г Гь Гә Ӷ Ӷь Ӷә Д Дә Е Ж Жь Жә З Ӡ Ӡә И К Кь Кә Қ Қь Қә Ҟ Ҟь Ҟә Л М Н О П Ԥ Р С Т Тә Ҭ Ҭә У Ф Х Хь Хә Ҳ Ҳә Ц Цә Ч Ҷ Ҽ Ҿ Ш Шь Шә Ы Ҩ Џ Џь Ь Ә",
-            "lowercase": "а б в г гь гә ӷ ӷь ӷә д дә е ж жь жә з ӡ ӡә и к кь кә қ қь қә ҟ ҟь ҟә л м н о п ԥ р с т тә ҭ ҭә у ф х хь хә ҳ ҳә ц цә ч ҷ ҽ ҿ ш шь шә ы ҩ џ џь ь ә"
+            "uppercase": "А Б В Г Гь Гә Ӷ Ӷь Ӷә Д Дә Е Ж Жь Жә З Ӡ Ӡә И К Кь Кә Қ Қь Қә Ҟ Ҟь Ҟә Л М Н О П Ԥ Р С Т Тә Ҭ Ҭә У Ф Х Хь Хә Ҳ Ҳә Ц Цә Ҵ Ҵә Ч Ҷ Ҽ Ҿ Ш Шь Шә Ы Ҩ Џ Џь Ь Ә"
+            "lowercase": "а б в г гь гә ӷ ӷь ӷә д дә е ж жь жә з ӡ ӡә и к кь кә қ қь қә ҟ ҟь ҟә л м н о п ԥ р с т тә ҭ ҭә у ф х хь хә ҳ ҳә ц цә ҵ ҵә ч ҷ ҽ ҿ ш шь шә ы ҩ џ џь ь ә"
         },
         {
             "type": "dialect",
-            "uppercase": "Ҙ Ҙә Ӡʼ Ҫ Ҫә Хʼ Хʼә Цʼ Ҵʼ",
-            "lowercase": "ҙ ҙә ӡʼ ҫ ҫә хʼ хʼә цʼ ҵʼ"
+            "uppercase": "Ҙ Ҙә Ӡʼ Ӡә Ҫ Ҫә Хʼ Хʼә Цʼ Ҵʼ",
+            "lowercase": "ҙ ҙә ӡʼ ӡә ҫ ҫә хʼ хʼә цʼ ҵʼ"
         },
         {
             "type": "historic",
-            "uppercase": "Гу Ҕ Ҕь Ҕу Ку Қу Ҟу Ҧ Ху Ҵ Ҵә",
-            "lowercase": "гу ҕ ҕь ҕу ку қу ҟу ҧ ху ҵ ҵә"
+            "uppercase": "Гу Ҕу Ҕ Ҕь Ҕу Ку Қу Ҟу Ҧ Ху",
+            "lowercase": "гу ҕу ҕ ҕь ҕу ку қу ҟу ҧ ху"
         },
         {
             "type": "extended",
-            "uppercase": "Й Ў",
-            "lowercase": "й ў"
+            "uppercase": "Ў",
+            "lowercase": "ў"
         }
     ]
 }
