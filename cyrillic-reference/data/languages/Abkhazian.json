@@ -3,9 +3,15 @@
         "name_eng": "Abkhazian",
         "name_rus": "Абхазский",
         "alternative_names": [
-            "Bzyb",
-            "Abzhui",
-            "Samurzakan"
+            "Abkhaz / Abkhazian",
+            "Bzyp / Bzyb",
+            "Abzhywa / Abzhui",
+            "Samurzakan",
+            "Sadz",
+            "Guma",
+            "Tsabal",
+            "Pskhu",
+            "Ahchipsy"
         ],
         "url": "https://paratype.github.io/cyrillic-languages/index.html?lang=Abkhazian&group=cyrillic&ui=en&pg=2",
         "language_tag": "ab",
