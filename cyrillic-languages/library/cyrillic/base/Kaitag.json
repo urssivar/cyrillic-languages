@@ -21,8 +21,8 @@
         "Khaydak",
         "Ucumi"
     ],
-    "description_eng": "The modern Kaitag alphabet, based on the Cyrillic script, was developed in 2024 and updated in 2026. It consists of 24 letters of the Russian alphabet (Щ, Ф, Ы, Э, Ё, Ю, Ъ, Ь, Ю are missing), and 6 specific characters (Ӕ, Ғ, Ҡ, Ҳ, Һ, Ӏ) as well as 12 digraphs (doubled geminates and ejectives with Ӏӏ). Important symbols that are not part of the alphabet are shown separately.",
-    "description_rus": "Современный кайтагский алфавит на основе кириллицы разработан в 2024 году и уточнен в 2026 году. Он состоит из 24 буквы русского алфавита (отсутствуют Щ, Ф, Ы, Э, Ё, Ю, Ъ, Ь, Ю), 6 специфических знаков (Ӕ, Ғ, Ҡ, Ҳ, Һ, Ӏ), и 12 диграфов (удвоенные геминаты и абруптивы с палочкой). Отдельно показаны важные знаки, не входящие в алфавит.",
+    "description_eng": "The modern Kaitag alphabet, based on the Cyrillic script, was developed in 2024 and updated in 2026. It consists of 24 letters of the Russian alphabet (Ё, Ф, Щ, Ъ, Ы, Ь, Э, Ю, Я are missing), and 6 specific characters (Ӕ, Ғ, Ҡ, Ҳ, Һ, Ӏ) as well as 12 digraphs (doubled geminates and ejectives with the palochka). Important symbols that are not part of the alphabet are shown separately.",
+    "description_rus": "Современный кайтагский алфавит на основе кириллицы разработан в 2024 году и уточнен в 2026 году. Он состоит из 24 буквы русского алфавита (отсутствуют Ё, Ф, Щ, Ъ, Ы, Ь, Э, Ю, Я), 6 специфических знаков (Ӕ, Ғ, Ҡ, Ҳ, Һ, Ӏ), и 12 диграфов (удвоенные геминаты и абруптивы с палочкой). Отдельно показаны важные знаки, не входящие в алфавит.",
     "glyphs_list": [
         {
             "type": "alphabet",
