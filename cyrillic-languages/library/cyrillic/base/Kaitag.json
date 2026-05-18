@@ -22,7 +22,7 @@
         "Ucumi"
     ],
     "description_eng": "The modern Kaitag Cyrillic alphabet was developed in 2024 and updated in 2026. It consists of 24 letters from the Russian alphabet (excluding Ёё, Фф, Щщ, Ъъ, Ыы, Ьь, Ээ, Юю, Яя), 6 extended Cyrillic letters (Әә, Ғғ, Ҡҡ, Ҳҳ, Һһ, Ӏӏ), and 12 digraphs (doubled geminates and ejectives with the palochka). Important symbols that are not part of the alphabet are shown separately.",
-    "description_rus": "Современный кайтагский кириллический алфавит разработан в 2024 году и обновлён в 2026-м. Он состоит из 24 букв русского алфавита (исключая Ёё, Фф, Щщ, Ъъ, Ыы, Ьь, Ээ, Юю, Яя), 6 расширенных кириллических букв (Ӕӕ, Ғғ, Ҡҡ, Ҳҳ, Һһ, Ӏӏ) и 12 диграфов (удвоенные геминаты и абруптивы с палочкой). Отдельно показаны важные знаки, не входящие в алфавит.",
+    "description_rus": "Современный кайтагский кириллический алфавит разработан в 2024 году и обновлён в 2026-м. Он состоит из 24 букв русского алфавита (исключая Ёё, Фф, Щщ, Ъъ, Ыы, Ьь, Ээ, Юю, Яя), 6 расширенных кириллических букв (Әә, Ғғ, Ҡҡ, Ҳҳ, Һһ, Ӏӏ) и 12 диграфов (удвоенные геминаты и абруптивы с палочкой). Отдельно показаны важные знаки, не входящие в алфавит.",
     "glyphs_list": [
         {
             "type": "alphabet",
